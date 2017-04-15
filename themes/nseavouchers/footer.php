@@ -18,14 +18,29 @@
 
 			<footer id="colophon" class="site-footer inner" role="contentinfo">
 				<div class="site-info">
+					<p class="copyright-text">3511 E. Harmon Ave.</br> 
+					Las Vegas, NV 89121</br> 
+					702-733-7330</br>
+					800-248-6732</br>
+					Fax: 702-733-6004</p>
 					<p class="copyright-text">&copy; Copyright 2017 NSEA. All right reserved.</p>
 				</div><!-- .site-info -->
 				<div class="footer-logos">
 					<div class="footer-image-left">
+					<p class="copyright-text">3511 E. Harmon Ave.</br> 
+					Las Vegas, NV 89121</br> 
+					702-733-7330</br>
+					800-248-6732</br>
+					Fax: 702-733-6004</p>
 						<img src="http://vouchershurt.org/wp-content/uploads/2017/03/vouchershurt2.png" border="0" alt="Vouchers Hurt">
 					</div> 
 					
 					<div class="footer-image-right">
+					<p class="copyright-text">3511 E. Harmon Ave.</br> 
+					Las Vegas, NV 89121</br> 
+					702-733-7330</br>
+					800-248-6732</br>
+					Fax: 702-733-6004</p>
 						<img src="http://vouchershurt.org/wp-content/uploads/2017/03/NSEAlogo.png" border="0" alt="NSEA">
 					</div> 
 					
