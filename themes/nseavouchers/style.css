@@ -373,31 +373,38 @@ th {
 	width: 48%;
 }
 
+.prefooter-area {
+	background-color: #13636b;
+}
+
 #prefooter-wrap {
 	padding: 5px;
 	margin: 20px auto;
-	width: 960px;
+	width: 1040px;
 	background-color: #13636b;
 	color: #ffffff;
 }
 
 #prefooter-1 {
-	width: 290px;
+	width: 320px;
 	float: left;
 	padding: 5px 15px;
+	background-color: #13636b;
 }
 
 #prefooter-2 {
-	width: 294px;
+	width: 319px;
 	float: left;
 	padding: 5px 15px;
 	margin: 0px 5px 5px 5px;
+	background-color: #13636b;
 }
 
 #prefooter-3 {
-	width: 270px;
+	width: 295px;
 	float: left;
 	padding: 5px 15px;
+	background-color: #13636b;
 }
 
 
