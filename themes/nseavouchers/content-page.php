@@ -50,6 +50,7 @@ get_header('content'); ?>
 	</div>
 
 	
+		<div id="prefooter-area">
 		<div id="prefooter-wrap">
 			<section id="prefooter-1">
 			<p class="tinywhite">3511 E. Harmon Ave.</br> 
@@ -57,7 +58,7 @@ get_header('content'); ?>
 					702-733-7330</br>
 					800-248-6732</br>
 					Fax: 702-733-6004</p>
-			</div>
+			</section>
 			<section id="prefooter-2">
 			<p class="tinywhite">3511 E. Harmon Ave.</br> 
 					Las Vegas, NV 89121</br> 
@@ -72,7 +73,8 @@ get_header('content'); ?>
 					800-248-6732</br>
 					Fax: 702-733-6004</p>
 			</aside>
-			</div>
+		</div>
+		</div>
 
 <?php
 get_footer();
