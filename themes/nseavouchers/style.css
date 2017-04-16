@@ -379,29 +379,29 @@ th {
 
 #prefooter-wrap {
 	padding: 5px;
-	margin: auto;
+	margin: 20px auto;
 	width: 1040px;
 	background-color: #13636b;
 	color: #ffffff;
 }
 
 #prefooter-1 {
-	width: 320px;
+	width: 346px;
 	float: left;
 	padding: 5px 15px;
 	background-color: #13636b;
 }
 
 #prefooter-2 {
-	width: 319px;
+	width: 348px;
 	float: left;
 	padding: 5px 15px;
 	background-color: #13636b;
 }
 
 #prefooter-3 {
-	width: 295px;
-	float: left;
+	width: 346px;
+	float: right;
 	padding: 5px 15px;
 	background-color: #13636b;
 }
