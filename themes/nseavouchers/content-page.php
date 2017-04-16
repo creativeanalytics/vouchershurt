@@ -51,7 +51,6 @@ get_header('content'); ?>
 	
 <div class="form-area full">
 
-	<div class="main-page"></div>
 	
 		<div id="prefooter-wrap" class="prefooter-area">
 			<div id="prefooter-1">
@@ -75,7 +74,7 @@ get_header('content'); ?>
 					800-248-6732</br>
 					Fax: 702-733-6004</p>
 			</div>
-		</div>
+			</div>
 
 
 </div>
