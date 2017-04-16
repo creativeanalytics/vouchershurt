@@ -50,7 +50,7 @@ get_header('content'); ?>
 	</div>
 
 	
-		<div id="prefooter-wrap full">
+		<div id="prefooter-wrap">
 			<section id="prefooter-1">
 			<p class="tinywhite">3511 E. Harmon Ave.</br> 
 					Las Vegas, NV 89121</br> 
