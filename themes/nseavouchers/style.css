@@ -373,7 +373,32 @@ th {
 	width: 48%;
 }
 
+#prefooter-wrap {
+	padding: 5px;
+	margin: 20px auto;
+	width: 960px;
+	background-color: #13636b;
+	color: #ffffff;
+}
 
+#prefooter-1 {
+	width: 290px;
+	float: left;
+	padding: 5px 15px;
+}
+
+#prefooter-2 {
+	width: 294px;
+	float: left;
+	padding: 5px 15px;
+	margin: 0px 5px 5px 5px;
+}
+
+#prefooter-3 {
+	width: 270px;
+	float: left;
+	padding: 5px 15px;
+}
 
 
 

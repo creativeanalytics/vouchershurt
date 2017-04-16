@@ -53,22 +53,28 @@ get_header('content'); ?>
 
 	<div class="main-page">
 	
-		<div id="form-section" class="site-form-section inner">
-			<h5>TELL YOUR LEGISLATOR TO OPPOSE ESA VOUCHERS AND INVEST MORE MONEY IN NEVADA'S PUBLIC SCHOOLS</h5>
-			<h6>Just fill out this form and send them a message!</h6>
-
-			<div class="form-inner">
-				<div id="mf_placeholder" 
-					 data-formurl="http://districtwebdesign.com/form/embed.php?id=12283" 
-					 data-formheight="622"  
-					 data-paddingbottom="40">
-				</div>
-				<script type="text/javascript" src="http://districtwebdesign.com/form/js/jquery.min.js"></script>
-				<script type="text/javascript" src="http://districtwebdesign.com/form/js/jquery.ba-postmessage.min.js"></script>
-				<script type="text/javascript" src="http://districtwebdesign.com/form/js/machform_loader.js"></script>
-			</div>
-			
-			
+		<div id="prefooter-wrap" class="prefooter-area">
+			<div id="prefooter-1">
+			<p>3511 E. Harmon Ave.</br> 
+					Las Vegas, NV 89121</br> 
+					702-733-7330</br>
+					800-248-6732</br>
+					Fax: 702-733-6004</p>
+					</div>
+			<div id="prefooter-2">
+			<p>3511 E. Harmon Ave.</br> 
+					Las Vegas, NV 89121</br> 
+					702-733-7330</br>
+					800-248-6732</br>
+					Fax: 702-733-6004</p>
+					</div>
+			<div id="prefooter-3">
+			<p>3511 E. Harmon Ave.</br> 
+					Las Vegas, NV 89121</br> 
+					702-733-7330</br>
+					800-248-6732</br>
+					Fax: 702-733-6004</p>
+					</div>
 		</div>
 
 	</div>
