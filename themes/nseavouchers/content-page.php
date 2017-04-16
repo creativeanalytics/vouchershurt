@@ -60,18 +60,18 @@ get_header('content'); ?>
 					Fax: 702-733-6004</p>
 			</section>
 			<section id="prefooter-2">
-			<p class="tinywhite">3511 E. Harmon Ave.</br> 
-					Las Vegas, NV 89121</br> 
-					702-733-7330</br>
-					800-248-6732</br>
-					Fax: 702-733-6004</p>
+			<p class="tinywhite">1890 Donald Street</br> 
+					Reno, NV 89502</br> 
+					775-828-6732</br>
+					800-232-6732</br>
+					Fax: 775-828-6745</p>
 			</section>
 			<aside id="prefooter-3">
-			<p class="tinywhite">3511 E. Harmon Ave.</br> 
-					Las Vegas, NV 89121</br> 
-					702-733-7330</br>
-					800-248-6732</br>
-					Fax: 702-733-6004</p>
+			<p class="tinywhite">557 W. Silver, Suite 203</br> 
+					Elko, NV 89801</br> 
+					775-777-8361</br>
+					888-673-2004</br>
+					Fax: 775-777-8362</p>
 			</aside>
 		</div>
 		</div>

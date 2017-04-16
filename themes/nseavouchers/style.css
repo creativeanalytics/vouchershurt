@@ -381,6 +381,7 @@ th {
 .prefooter-area {
 	background-color: #13636b;
 	width: 100%;
+	margin: 1.5em 0 0;
 }
 
 #prefooter-wrap {
@@ -394,7 +395,7 @@ th {
 #prefooter-1 {
 	width: 33%;
 	float: left;
-	padding: 5px 15px;
+	padding: 5px 15px 0px 15px;
 	background-color: #13636b;
 	color: #ffffff;
 }
