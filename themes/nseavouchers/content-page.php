@@ -52,28 +52,28 @@ get_header('content'); ?>
 <div class="form-area full">
 
 	
-		<div id="prefooter-wrap" class="prefooter-area">
-			<div id="prefooter-1">
+		<div id="prefooter-wrap">
+			<section id="prefooter-1">
 			<p>3511 E. Harmon Ave.</br> 
 					Las Vegas, NV 89121</br> 
 					702-733-7330</br>
 					800-248-6732</br>
 					Fax: 702-733-6004</p>
 			</div>
-			<div id="prefooter-2">
+			<section id="prefooter-2">
 			<p>3511 E. Harmon Ave.</br> 
 					Las Vegas, NV 89121</br> 
 					702-733-7330</br>
 					800-248-6732</br>
 					Fax: 702-733-6004</p>
-			</div>
-			<div id="prefooter-3">
+			</section>
+			<aside id="prefooter-3">
 			<p>3511 E. Harmon Ave.</br> 
 					Las Vegas, NV 89121</br> 
 					702-733-7330</br>
 					800-248-6732</br>
 					Fax: 702-733-6004</p>
-			</div>
+			</aside>
 			</div>
 
 
