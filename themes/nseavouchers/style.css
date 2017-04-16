@@ -379,7 +379,7 @@ th {
 
 #prefooter-wrap {
 	padding: 5px;
-	margin: 20px auto;
+	margin: auto;
 	width: 1040px;
 	background-color: #13636b;
 	color: #ffffff;
@@ -396,7 +396,6 @@ th {
 	width: 319px;
 	float: left;
 	padding: 5px 15px;
-	margin: 0px 5px 5px 5px;
 	background-color: #13636b;
 }
 
