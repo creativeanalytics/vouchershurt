@@ -18,10 +18,6 @@ get_header(); ?>
 		
 	
 		<main id="main" class="site-main" role="main">
-		
-			<h4>We must invest more in ALL public schools, so&nbsp;we&nbsp;can&nbsp;improve&nbsp;education<br />
-			for ALL Nevada students, not take money&nbsp;away&nbsp;to&nbsp;benefit&nbsp;a&nbsp;few.</h4>
-
 
 				<div class="left-content-area">
 					<img src="<?php the_field('left_content_image'); ?>">
