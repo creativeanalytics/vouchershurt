@@ -51,7 +51,7 @@ get_header('content'); ?>
 	
 <div class="form-area full">
 
-	<div class="main-page">
+	<div class="main-page"></div>
 	
 		<div id="prefooter-wrap" class="prefooter-area">
 			<section id="prefooter-1" class="prefooter-area">
@@ -76,8 +76,6 @@ get_header('content'); ?>
 					Fax: 702-733-6004</p>
 			</section>
 		</div>
-
-	</div>
 
 
 </div>
