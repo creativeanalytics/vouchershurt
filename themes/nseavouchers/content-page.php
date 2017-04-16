@@ -48,11 +48,9 @@ get_header('content'); ?>
 				</div><!-- #content -->
 		</div>
 	</div>
-	
-<div class="form-area full"></div>
 
 	
-		<div id="prefooter-wrap">
+		<div id="prefooter-wrap full">
 			<section id="prefooter-1">
 			<p class="tinywhite">3511 E. Harmon Ave.</br> 
 					Las Vegas, NV 89121</br> 

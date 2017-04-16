@@ -137,6 +137,11 @@ small {
 	font-size: 80%;
 }
 
+.tinywhite {
+	font-size: 80%;
+	color: white;
+}
+
 sub,
 sup {
 	font-size: 75%;
@@ -390,6 +395,7 @@ th {
 	float: left;
 	padding: 5px 15px;
 	background-color: #13636b;
+	color: #ffffff;
 }
 
 #prefooter-2 {
@@ -397,13 +403,15 @@ th {
 	float: left;
 	padding: 5px 15px;
 	background-color: #13636b;
+	color: #ffffff;
 }
 
 #prefooter-3 {
 	width: 346px;
-	float: right;
+	float: left;
 	padding: 5px 15px;
 	background-color: #13636b;
+	color: #ffffff;
 }
 
 
