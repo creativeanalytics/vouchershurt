@@ -10,7 +10,7 @@
  * @package NSEA_Vouchers_Campaign
  */
 
-get_header(); ?>
+get_header('content'); ?>
 
 
 
